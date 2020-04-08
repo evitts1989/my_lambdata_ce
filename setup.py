@@ -11,7 +11,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md file for long desc
     #license="MIT",
-    url="https://github.com/evitts1989/my_lambdata_ce",
+    url="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME",
     #keywords="",
     packages=find_packages() # ["my_lambdata"]
 )
