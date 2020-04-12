@@ -15,7 +15,3 @@ def year_creator(dataframe, column):
     dataframe[column] = pd.to_datetime(dataframe[column], infer_datetime_format=True)
     dataframe['year'] = dataframe[column].dt.year
     return dataframe
-
-
-class Whatever():
-    

@@ -1,0 +1,9 @@
+README.md
+setup.py
+my_date_creator.egg-info/PKG-INFO
+my_date_creator.egg-info/SOURCES.txt
+my_date_creator.egg-info/dependency_links.txt
+my_date_creator.egg-info/top_level.txt
+my_lambdata/__init__.py
+my_lambdata/my_mod.py
+my_lambdata/my_script.py
